@@ -1,0 +1,12 @@
+D:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\bin\Debug\Mail_Sent.exe.config
+D:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\bin\Debug\Mail_Sent.exe
+D:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\bin\Debug\Mail_Sent.pdb
+D:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\obj\Debug\Mail_Sent.csprojResolveAssemblyReference.cache
+D:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\obj\Debug\Mail_Sent.exe
+D:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\obj\Debug\Mail_Sent.pdb
+E:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\bin\Debug\Mail_Sent.exe.config
+E:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\obj\Debug\Mail_Sent.exe
+E:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\obj\Debug\Mail_Sent.pdb
+E:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\bin\Debug\Mail_Sent.exe
+E:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\bin\Debug\Mail_Sent.pdb
+E:\GU_AIM\SW_SEM_3\DWA\C# training\Mail_Sent\Mail_Sent\obj\Debug\Mail_Sent.csprojResolveAssemblyReference.cache
